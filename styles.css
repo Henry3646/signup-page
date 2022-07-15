@@ -1,13 +1,14 @@
 body {
     display: flex;
     justify-content: center;
+    align-items: center;
     padding: 100px;
 
 }
 
 .mainbox{
     display: flex;
-    width: 75%;
+    width: 900px;
     height: 490px;
     border-radius: 20px;
     box-shadow: 2px 2px 20px #888888;
