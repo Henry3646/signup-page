@@ -1,5 +1,5 @@
 # signup-page
 
-photo used:
-https://unsplash.com/@safarslife
+photo used: <br />
+https://unsplash.com/@safarslife <br />
 https://unsplash.com/photos/koOdUvfGr4c
